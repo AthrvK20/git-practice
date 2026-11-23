@@ -1,3 +1,4 @@
 This is Notes File
 This is second line
 This is next line
+This is going to be the conflict text
